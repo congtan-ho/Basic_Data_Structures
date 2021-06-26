@@ -1,0 +1,6 @@
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Stack_Data_Structure_UsingArray\bin\Debug\Stack_Data_Structure_UsingArray.exe.config
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Stack_Data_Structure_UsingArray\bin\Debug\Stack_Data_Structure_UsingArray.exe
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Stack_Data_Structure_UsingArray\bin\Debug\Stack_Data_Structure_UsingArray.pdb
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Stack_Data_Structure_UsingArray\obj\Debug\Stack_Data_Structure_UsingArray.csproj.CoreCompileInputs.cache
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Stack_Data_Structure_UsingArray\obj\Debug\Stack_Data_Structure_UsingArray.exe
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Stack_Data_Structure_UsingArray\obj\Debug\Stack_Data_Structure_UsingArray.pdb

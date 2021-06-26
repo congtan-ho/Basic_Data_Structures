@@ -1,0 +1,7 @@
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Queue_Using_LinkedList\bin\Debug\Queue_Using_LinkedList.exe.config
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Queue_Using_LinkedList\bin\Debug\Queue_Using_LinkedList.exe
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Queue_Using_LinkedList\bin\Debug\Queue_Using_LinkedList.pdb
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Queue_Using_LinkedList\obj\Debug\Queue_Using_LinkedList.csproj.CoreCompileInputs.cache
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Queue_Using_LinkedList\obj\Debug\Queue_Using_LinkedList.exe
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Queue_Using_LinkedList\obj\Debug\Queue_Using_LinkedList.pdb
+D:\EXERCISE\CAU TRUC DU LIEU\CAU_TRUC_DU_LIEU\Basic_Data_Structures\Queue_Using_LinkedList\obj\Debug\Queue_Using_LinkedList.csprojAssemblyReference.cache
